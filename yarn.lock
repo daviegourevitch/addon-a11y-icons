@@ -2561,6 +2561,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@storybook/icons@npm:^1.2.12":
+  version: 1.2.12
+  resolution: "@storybook/icons@npm:1.2.12"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
+  checksum: 10c0/97f6a7b7841fb5a0d1c8a30c36173469e7b0814a674c8103c7c0fd8803f0f7c2a778545af864012d40883195a533534dbc98541deac2bafe31e6a3fe37fdfc66
+  languageName: node
+  linkType: hard
+
 "@storybook/manager-api@npm:8.4.5":
   version: 8.4.5
   resolution: "@storybook/manager-api@npm:8.4.5"
@@ -9213,6 +9223,7 @@ __metadata:
     "@storybook/addon-a11y": "npm:^8.4.2"
     "@storybook/addon-ondevice-actions": "npm:^8.4.2"
     "@storybook/addon-ondevice-controls": "npm:^8.4.2"
+    "@storybook/icons": "npm:^1.2.12"
     "@storybook/react-native": "npm:^8.4.2"
     "@types/react": "npm:~18.2.79"
     babel-loader: "npm:^9.1.3"
